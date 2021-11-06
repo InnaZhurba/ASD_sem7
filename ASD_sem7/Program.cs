@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 using ASD_sem7.task_7;
 using ASD_sem7.task_8;
+using ASD_sem7.task_9;
 
 namespace ASD_sem7
 {
@@ -40,11 +41,26 @@ namespace ASD_sem7
             
             Console.WriteLine(maxProfit.solve(arr));
         }
+
+        public static void Call_task9()
+        {
+            ProjectManagement projectManagement = new ProjectManagement();
+            int K = 3,
+                C = 0;
+            int[] A = { 5,6,7},
+                B = { 0,3,4};
+                
+            /*int[] A = { 100,50,80},
+                B = { 0,0,0};
+                */
+            
+            Console.WriteLine(projectManagement.solve9(K,C,A,B));
+        }
         static void Main(string[] args)
         {
             //Call_task7();
-            
-            Call_task8();
+            //Call_task8();
+            Call_task9();
         }
     }
 }
