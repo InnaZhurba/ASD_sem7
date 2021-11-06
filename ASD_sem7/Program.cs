@@ -38,7 +38,7 @@ namespace ASD_sem7
             //int []arr = { 10,1,2,1,4,3}; //4
             int []arr = { 5,10,15,20}; //15
             
-            Console.WriteLine(maxProfit.maxProfit(arr));
+            Console.WriteLine(maxProfit.solve8(arr));
         }
         static void Main(string[] args)
         {

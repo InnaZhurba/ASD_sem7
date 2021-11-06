@@ -4,7 +4,7 @@ namespace ASD_sem7.task_8
 {
     public class MaxProfit
     {
-        public int maxProfit(int[] arr)
+        public int solve8(int[] arr)
         {
             int profit = 0;
             
