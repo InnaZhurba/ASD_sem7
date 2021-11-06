@@ -1,0 +1,15 @@
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/bin/Debug/net5.0/ASD_sem7.deps.json
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/bin/Debug/net5.0/ASD_sem7.runtimeconfig.json
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/bin/Debug/net5.0/ASD_sem7.runtimeconfig.dev.json
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/bin/Debug/net5.0/ASD_sem7.dll
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/bin/Debug/net5.0/ref/ASD_sem7.dll
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/bin/Debug/net5.0/ASD_sem7.pdb
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/obj/Debug/net5.0/ASD_sem7.csproj.AssemblyReference.cache
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/obj/Debug/net5.0/ASD_sem7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/obj/Debug/net5.0/ASD_sem7.AssemblyInfoInputs.cache
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/obj/Debug/net5.0/ASD_sem7.AssemblyInfo.cs
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/obj/Debug/net5.0/ASD_sem7.csproj.CoreCompileInputs.cache
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/obj/Debug/net5.0/ASD_sem7.dll
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/obj/Debug/net5.0/ref/ASD_sem7.dll
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/obj/Debug/net5.0/ASD_sem7.pdb
+/Users/innazhurba/Documents/ASD2021/sem7_greedy/ASD_sem7/ASD_sem7/obj/Debug/net5.0/ASD_sem7.genruntimeconfig.cache

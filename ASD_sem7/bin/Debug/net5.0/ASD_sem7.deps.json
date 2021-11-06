@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ASD_sem7/1.0.0": {
+        "runtime": {
+          "ASD_sem7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASD_sem7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
