@@ -35,10 +35,10 @@ namespace ASD_sem7
         public static void Call_task8()
         {
             MaxProfit maxProfit = new MaxProfit();
-            //int []arr = { 10,1,2,1,4,3}; //4
-            int []arr = { 5,10,15,20}; //15
+            int []arr = { 10,1,2,1,4,3}; //4
+            //int []arr = { 5,10,15,20}; //15
             
-            Console.WriteLine(maxProfit.solve8(arr));
+            Console.WriteLine(maxProfit.solve(arr));
         }
         static void Main(string[] args)
         {

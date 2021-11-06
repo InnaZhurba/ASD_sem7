@@ -16,5 +16,22 @@ namespace ASD_sem7.task_8
             }
             return profit;
         }
+
+        public int solve(int[] arr)
+        {
+            int lowPrice = 0;
+            int highPrice = 0;
+
+            for (int i = 1; i < arr.Length; i++)
+            {
+                if (arr[i] > arr[i - 1])
+                {
+                    lowPrice += arr[i - 1];
+                    highPrice += arr[i];
+                }
+            }
+
+            return highPrice - lowPrice;
+        }
     }
 }
